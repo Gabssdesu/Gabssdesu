@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="200" viewBox="0 0 460 200" role="img" aria-label="Merenda Aberta">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#1f2328}
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:11.5px;fill:#59636e}
+.d{font-size:14px;fill:#59636e}
+.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+</style>
+<rect x=".5" y=".5" width="459" height="199" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="35" class="m">01</text>
+<circle cx="378" cy="31" r="3.5" fill="#1a7f37" class="pulse"/><text x="436" y="35" class="m" text-anchor="end" style="fill:#1a7f37">no ar ↗</text>
+<text x="24" y="76" font-size="22" font-weight="600" letter-spacing="-.4">Merenda Aberta</text>
+<text x="24" y="104" class="d">Trilha de auditoria pública do dinheiro da merenda:</text>
+<text x="24" y="124" class="d">escola e conselho assinam, qualquer um recomputa a cadeia.</text>
+<rect x="24.5" y="152.5" width="68" height="21" rx="10.5" fill="#f6f8fa" stroke="#d1d9e0"/><text x="58.5" y="166.5" class="m" text-anchor="middle">Next.js</text><rect x="99.5" y="152.5" width="89" height="21" rx="10.5" fill="#f6f8fa" stroke="#d1d9e0"/><text x="144" y="166.5" class="m" text-anchor="middle">TypeScript</text><rect x="195.5" y="152.5" width="89" height="21" rx="10.5" fill="#f6f8fa" stroke="#d1d9e0"/><text x="240" y="166.5" class="m" text-anchor="middle">PostgreSQL</text><rect x="291.5" y="152.5" width="61" height="21" rx="10.5" fill="#f6f8fa" stroke="#d1d9e0"/><text x="322" y="166.5" class="m" text-anchor="middle">Solana</text>
+</svg>

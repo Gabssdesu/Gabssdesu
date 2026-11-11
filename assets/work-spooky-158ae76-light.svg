@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="200" viewBox="0 0 460 200" role="img" aria-label="Spooky Masks">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#1f2328}
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:11.5px;fill:#59636e}
+.d{font-size:14px;fill:#59636e}
+.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+</style>
+<rect x=".5" y=".5" width="459" height="199" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="35" class="m">02</text>
+<circle cx="362" cy="31" r="3.5" fill="#8250df"/><text x="436" y="35" class="m" text-anchor="end" style="fill:#8250df">game jam ↗</text>
+<text x="24" y="76" font-size="22" font-weight="600" letter-spacing="-.4">Spooky Masks</text>
+<text x="24" y="104" class="d">Aventura 2D top-down numa mansão assombrada,</text>
+<text x="24" y="124" class="d">feita em 48 horas na Global Game Jam 2026.</text>
+<rect x="24.5" y="152.5" width="53" height="21" rx="10.5" fill="#f6f8fa" stroke="#d1d9e0"/><text x="51" y="166.5" class="m" text-anchor="middle">React</text><rect x="84.5" y="152.5" width="61" height="21" rx="10.5" fill="#f6f8fa" stroke="#d1d9e0"/><text x="115" y="166.5" class="m" text-anchor="middle">PixiJS</text><rect x="152.5" y="152.5" width="46" height="21" rx="10.5" fill="#f6f8fa" stroke="#d1d9e0"/><text x="175.5" y="166.5" class="m" text-anchor="middle">Vite</text>
+</svg>
