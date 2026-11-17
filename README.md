@@ -7,7 +7,7 @@
 
 ### oi, gabriel aqui.
 
-dev **full-stack** no brasil, técnico em desenvolvimento de sistemas pelo if sudeste mg e estudante de sistemas de informação na ufjf.
+dev **full-stack** e tech lead no brasil, técnico em desenvolvimento de sistemas pelo if sudeste mg e estudante de sistemas de informação na ufjf.
 
 no dia a dia eu coloco em produção **crms, agentes de ia e automações de atendimento**, do schema do banco ao deploy no servidor.
 
